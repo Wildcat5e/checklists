@@ -1,8 +1,10 @@
-Event:                              Match:
+Event:  _________________________   Match: ___________
 
-Allies:                             Color:
+Allies: ___________ , ___________   Color: ___________
 
-BATTERY     [ ] charged             number: 
+*********************** Pre Match Checks ***********************
+
+BATTERY     [ ] charged             Number: __________ 
 
 CLIMBER     [ ] pistons             [ ] pneumatics
 
@@ -18,8 +20,42 @@ FLYWHEEL    [ ] spins               [ ] zip ties
 INTAKE      [ ] spins               [ ] belts               [ ] wheels
             [ ] extends             [ ] retracts
 
-MATCH       [ ] bumper
+MATCH       [ ] bumper 
 
 VISION      [ ] unobstructed
 
-NOTES:
+NOTES: _______________________________________________________
+
+       _______________________________________________________
+
+********************** Post Match Checks ***********************
+
+BATTERY     [ ] ________________________________________
+            [ ] Browned out/Power Loss 
+
+CLIMBER     [ ] ________________________________________
+            [ ] One are Climb       [ ] Bent rod(s)
+
+COMPRESSOR  [ ] ________________________________________
+
+CONVEYOR    [ ] ________________________________________
+            [ ] belts               [ ] wheels
+            [ ] lower line break    [ ] upper line break
+
+DRIVETRAIN  [ ] ________________________________________
+            [ ] belts               [ ] treads              [ ] wheels
+
+FLYWHEEL    [ ] ________________________________________
+            [ ] zip ties missing/damaged
+
+INTAKE      [ ] ________________________________________
+            [ ] belts               [ ] wheels
+
+MATCH       [ ] ________________________________________
+            [ ] Won                 [ ] Traversal Climb 
+
+VISION      [ ] ________________________________________
+
+NOTES: _______________________________________________________
+
+       _______________________________________________________
