@@ -1,0 +1,22 @@
+Event:  _________________________   Departure Date: ___________
+
+*************************** General ***************************
+[ ] Rivits                  [ ] Rivit Gun
+[ ] 8-32 Fasteners Box      [ ] Paper Towels
+[ ] Broom w/ Dustpan        [ ] ShopVac
+[ ] Safety Glasses          [ ] Trash can with bags
+[ ] Pneumatic parts tray
+
+************************* Spare Parts *************************
+[ ] RoboRio                 [ ] Robot Radio
+[ ] Single Action Silinoid  [ ] Pneumatic Tubing
+
+*************************** Scouting **************************
+[ ] 6 clipboards            [ ] 20 Match Scouting Sheets
+[ ] 20 pens/pencils         [ ] 40 Pit Scouting Sheets
+[ ] Projector for Scouting Meeting
+
+************************* Stands/Admin ************************
+[ ] Table for meals         [ ] Cooler
+[ ] Snacks                  [ ] Water
+[ ] Trash bags              [ ] Padlock for truck, if not provided

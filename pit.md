@@ -1,2 +1,0 @@
-Tournament Pit Checklist
-========================
